@@ -8,7 +8,7 @@ A: Every switch in WPD reflects to original places in gpedit.msc, services.msc, 
 Q: I disabled everything in WPD and now "Night Light" doesn't work. How can I fix that?  
 A: Enable "Connected Devices Platform User Service" and restart your PC.  
 Q: Skype stopped working. What should I do?  
-A: Delete the "Extra rule" in the blocker.  
+A: Delete the "Extra rule" in the blocker.  ...?
 Q: My microphone stopped working. What should I do?  
 A: Open Advanced Settings, turn on "Let Windows apps access the microphone".  
 Q: I found an error in the Blocker rules.  
