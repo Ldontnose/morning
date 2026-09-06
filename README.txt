@@ -1,4 +1,4 @@
-# FAQ #
+# FAQ # .
 Q: Should I set switches to "On" or "Off" to block telemetry?  
 A: "On" means "Telemetry setting is ON", "Off" means "Telemetry setting is OFF". For more info check the descriptions by pressing "?" icons.  
 Q: After applying all the settings, something stopped working. What should I do?  
